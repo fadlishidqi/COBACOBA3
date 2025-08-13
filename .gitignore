@@ -30,3 +30,5 @@ output
 *.njsproj
 *.sln
 *.sw?
+
+.do/app.yaml
